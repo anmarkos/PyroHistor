@@ -1,9 +1,9 @@
-"Programmatic generation of fire spread and extinguishment data with geostationary satellites."
+"PyroHistor: Tracking Extreme Wildfire Behavior via Geostationary Satellites."
 
 Code Archive 
 
 This repository contains the code required to reproduce the analysis in the article: 
-"Programmatic generation of fire spread and extinguishment data with geostationary satellites."
+"PyroHistor: Tracking Extreme Wildfire Behavior via Geostationary Satellites."
 
 Four text files are provided, three .js and one . ipynb. 
 The javascript codes are essentially the same, but with 
